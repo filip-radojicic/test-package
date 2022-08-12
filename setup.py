@@ -1,9 +1,8 @@
-import email
 from setuptools import setup
 
 setup(
     name="anthem-utils",
-    version="0.0.3",
+    version="0.0.4",
     description="Helper for handling anthem errors.",
     long_description="Helper   for   handling   anthem   errors.",
     author="Filip Radojicic",
